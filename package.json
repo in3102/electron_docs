@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "node bot.js"
+  },
+  "author": "dto",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "highlight.js": "^9.16.2",
+    "markdown-it": "^10.0.0"
+  }
+}

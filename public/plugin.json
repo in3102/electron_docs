@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "pluginName": "Electron 文档",
+    "description": "Electron 中文文档",
+    "author": "uTools官方",
+    "homepage": "https://u.tools",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "Electron",
+            "explain": "Electron 文档速查",
+            "cmds": ["Electron"]
+        }
+    ]
+}
